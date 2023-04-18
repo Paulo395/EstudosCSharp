@@ -8,7 +8,7 @@ internal class Program
         string? opcao;
 
         do{
-            Console.WriteLine("Muito boa noite");
+            Console.WriteLine("Muito boa noite, urruuu");
             Console.WriteLine("Digite o 1° Valor:");
             float valor1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Digite o 2° Valor:");
