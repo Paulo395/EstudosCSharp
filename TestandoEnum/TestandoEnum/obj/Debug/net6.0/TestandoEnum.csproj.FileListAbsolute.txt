@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\bin\Debug\net6.0\TestandoEnum.exe
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\bin\Debug\net6.0\TestandoEnum.deps.json
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\bin\Debug\net6.0\TestandoEnum.runtimeconfig.json
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\bin\Debug\net6.0\TestandoEnum.dll
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\bin\Debug\net6.0\TestandoEnum.pdb
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.AssemblyInfo.cs
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.dll
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\refint\TestandoEnum.dll
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.pdb
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\TestandoEnum.genruntimeconfig.cache
+C:\Users\pauli\source\repos\TestandoEnum\TestandoEnum\obj\Debug\net6.0\ref\TestandoEnum.dll
