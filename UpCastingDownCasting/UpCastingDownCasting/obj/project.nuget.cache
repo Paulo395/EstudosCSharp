@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6N1/nBq2Ya4ZmcWL/x/p4zHyq71O+JQAG8cwg5iFt4HzPXSEOI4F64BC/SMtyThiTR6dasIQibnzIcFxDJxH0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauli\\OneDrive\\Área de Trabalho\\C#\\EstudosCSharp\\UpCastingDownCasting\\UpCastingDownCasting\\UpCastingDownCasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
