@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.deps.json
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.runtimeconfig.json
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\refint\TratamentoDeExcecoes.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\TratamentoDeExcecoes\TratamentoDeExcecoes\obj\Debug\net6.0\ref\TratamentoDeExcecoes.dll

@@ -31,10 +31,16 @@ namespace UpCastingDownCasting.Entities
             }
         }
 
-        public override void Frase()
+        //public override void Frase()
+        //{
+        //    base.Frase();
+        //    Console.WriteLine("Frase businessAccount, putx");
+        //}
+
+        public override void Withdraw(double amount)
         {
-            //base.Frase();
-            Console.WriteLine("Frase businessAccount, putx");
+            base.Withdraw(amount); 
+            Balance -= 5;
         }
 
         public override string ToString()
