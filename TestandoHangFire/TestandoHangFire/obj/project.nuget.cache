@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5XRAIxaq40SPh58NFZXyb8VGHpfQ3A3YL9sjjioVCAN9nnwaNeEyI6tuc4K/7XWxkZMbtucnIesie2M1rD0TYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire\\1.8.2\\hangfire.1.8.2.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire.aspnetcore\\1.8.2\\hangfire.aspnetcore.1.8.2.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire.core\\1.8.2\\hangfire.core.1.8.2.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire.memorystorage\\1.7.0\\hangfire.memorystorage.1.7.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire.netcore\\1.8.2\\hangfire.netcore.1.8.2.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\hangfire.sqlserver\\1.8.2\\hangfire.sqlserver.1.8.2.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\pauli\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
