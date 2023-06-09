@@ -1,11 +1,11 @@
-﻿
-internal class Program
+﻿using Caluladora.Operacoes;
+internal class Calculadora
 {
     private static void Main(string[] args)
     {
         Operacoes calcular = new Operacoes();
         float? resposta = null;
-        string? opcao;
+        string? type;
 
         do{
             Console.WriteLine("Muito boa noite, urruuu");
@@ -17,7 +17,9 @@ internal class Program
             Console.WriteLine("\tDigite o simbolo da operação deseja realizar:\n");
             Console.WriteLine("+\tAdição\n-\tSubtração\n/\tDivisão\n*\tMultiplicação\n");
             
-            opcao = Console.ReadLine();
+            type = Console.ReadLine();
+
+            Calculos();
 
             switch(opcao){
                 case "+":

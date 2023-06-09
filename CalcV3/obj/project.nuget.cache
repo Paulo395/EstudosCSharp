@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+MDO9efPkggxqSGwkt48DCdoo/WEsZg/VbKTAPoJzE5KCf6V5GVHIcJY2Z4kpmrSDGnXSwhDG7oxKkwXdY4MQ==",
+  "dgSpecHash": "NvnrrKISk2sRuL2Pml40AXqinkmwltemsahRNlAUjTra1zrNV4Di2HYwn3AG4gEBef676G9b5U6+/GuEOHkZkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pauli\\Desktop\\CalcV3\\Calculadora.csproj",
+  "projectFilePath": "C:\\Estudos\\C#\\EstudosCSharp\\CalcV3\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,12 +6,19 @@ namespace FileInfo // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
+
             string sourcePath = @"C:\Testes\TextoQualquer.txt";
-            //string targetPath = @"C:\Testes\OutroTextoQualquerDeNovo.txt";
 
             try
-            {
-                //File.Copy(sourcePath, targetPath);
+            { 
+
+                //for (int i = 0; i < 5; i++)
+                //{
+                //    int num = random.Next(0, 100);
+                //    string targetPath = @"C:\Testes\OutroTextoQualquer" + num + ".txt";
+                //    File.Copy(sourcePath, targetPath);
+                //}
                 string[] lines = File.ReadAllLines(sourcePath);
 
                 foreach (string line in lines)

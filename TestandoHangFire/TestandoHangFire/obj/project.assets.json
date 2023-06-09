@@ -514,11 +514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pauli\\source\\repos\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
+      "projectUniqueName": "C:\\Estudos\\C#\\EstudosCSharp\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
       "projectName": "TestandoHangFire",
-      "projectPath": "C:\\Users\\pauli\\source\\repos\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
+      "projectPath": "C:\\Estudos\\C#\\EstudosCSharp\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
       "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pauli\\source\\repos\\TestandoHangFire\\TestandoHangFire\\obj\\",
+      "outputPath": "C:\\Estudos\\C#\\EstudosCSharp\\TestandoHangFire\\TestandoHangFire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

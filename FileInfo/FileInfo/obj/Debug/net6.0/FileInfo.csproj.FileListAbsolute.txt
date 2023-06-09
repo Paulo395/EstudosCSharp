@@ -13,3 +13,18 @@ C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\FileInfo\FileInfo\obj
 C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.pdb
 C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
 C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.exe
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.deps.json
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.runtimeconfig.json
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.dll
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\bin\Debug\net6.0\FileInfo.pdb
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.csproj.AssemblyReference.cache
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfoInputs.cache
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfo.cs
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.dll
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\refint\FileInfo.dll
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.pdb
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
+C:\Estudos\C#\EstudosCSharp\FileInfo\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll

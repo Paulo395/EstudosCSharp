@@ -9,19 +9,21 @@
   },
   "packageFolders": {
     "C:\\Users\\pauli\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pauli\\OneDrive\\Área de Trabalho\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\FileInfo.csproj",
+      "projectUniqueName": "C:\\Estudos\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\FileInfo.csproj",
       "projectName": "FileInfo",
-      "projectPath": "C:\\Users\\pauli\\OneDrive\\Área de Trabalho\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\FileInfo.csproj",
+      "projectPath": "C:\\Estudos\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\FileInfo.csproj",
       "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pauli\\OneDrive\\Área de Trabalho\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\obj\\",
+      "outputPath": "C:\\Estudos\\C#\\EstudosCSharp\\FileInfo\\FileInfo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",

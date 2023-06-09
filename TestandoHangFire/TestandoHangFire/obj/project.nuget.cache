@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XRAIxaq40SPh58NFZXyb8VGHpfQ3A3YL9sjjioVCAN9nnwaNeEyI6tuc4K/7XWxkZMbtucnIesie2M1rD0TYQ==",
+  "dgSpecHash": "2s+bvxI171qESyzENHbYjlvDD7fBopft1WFPFQMI7q1NudFgE0pZ75CSzb6oecQKc6mRGiK9gChz/v2rmY2UrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
+  "projectFilePath": "C:\\Estudos\\C#\\EstudosCSharp\\TestandoHangFire\\TestandoHangFire\\TestandoHangFire.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pauli\\.nuget\\packages\\hangfire\\1.8.2\\hangfire.1.8.2.nupkg.sha512",
     "C:\\Users\\pauli\\.nuget\\packages\\hangfire.aspnetcore\\1.8.2\\hangfire.aspnetcore.1.8.2.nupkg.sha512",
