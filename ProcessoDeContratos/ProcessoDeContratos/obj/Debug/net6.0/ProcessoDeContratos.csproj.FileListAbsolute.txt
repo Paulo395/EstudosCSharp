@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\bin\Debug\net6.0\ProcessoDeContratos.exe
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\bin\Debug\net6.0\ProcessoDeContratos.deps.json
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\bin\Debug\net6.0\ProcessoDeContratos.runtimeconfig.json
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\bin\Debug\net6.0\ProcessoDeContratos.dll
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\bin\Debug\net6.0\ProcessoDeContratos.pdb
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.AssemblyInfo.cs
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.dll
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\refint\ProcessoDeContratos.dll
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.pdb
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ProcessoDeContratos.genruntimeconfig.cache
+C:\Users\pauli\source\repos\ProcessoDeContratos\ProcessoDeContratos\obj\Debug\net6.0\ref\ProcessoDeContratos.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1JI0gu5uPugHOjR5wyLNBIn3Z0+A42otX2zmfyP/usMI/AZJghXd9YdqdcJDdbb9x9JPc13fVuw/sea+5wH7Q==",
+  "dgSpecHash": "aqYQDVwsBqyaXrZvONJJjqCC6mBxOea9lqs6OKFS8wEzRU6tnRgJcDE5hk/zI6yiXyOTf47hEzpdTbkD3VcEcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pauli\\source\\repos\\TestandoEnum\\TestandoEnum\\TestandoEnum.csproj",
+  "projectFilePath": "C:\\Estudos\\C#\\EstudosCSharp\\TestandoEnum\\TestandoEnum\\TestandoEnum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pauli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\pauli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
