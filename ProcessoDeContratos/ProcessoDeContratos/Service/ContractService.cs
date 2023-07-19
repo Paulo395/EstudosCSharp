@@ -6,14 +6,16 @@ namespace Service
     {
         public void GerarParcelas(Contract contract, byte numeroParcelas)
         {
-            
+            DateOnly data = contract.DataContrato;
+
             for (int i = 0; i < numeroParcelas; i++)
             {
                 double valorParcela = contract.ValorTotal / numeroParcelas;
-                valorParcela += valorParcela * (1.0 / 100); //Juros Simples
-                valorParcela += valorParcela * (2.0 / 100); //Taxa de Pagamento
+                PaypalService paypalService = new PaypalService();
+                valorParcela = paypalService.Tax(valorParcela, i+1);
 
-                Installment intallment = new Installment(valorParcela);
+                data = data.AddMonths(1);
+                Installment intallment = new Installment(data,valorParcela);
 
                 contract.AdicionarParcela(intallment);
             }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Globalization;
 
 namespace Entities
 {
@@ -11,19 +7,15 @@ namespace Entities
         public DateOnly DataDeVencimento { get; private set; }
         public double Quantia { get; private set; }
 
-        //public Installment(DateOnly dataDeVencimento)
-        //{
-        //    DataDeVencimento = dataDeVencimento;
-        //}
-
-        public Installment(double quatia)
+        public Installment(DateOnly dataDeVencimento, double quatia)
         {
+            DataDeVencimento = dataDeVencimento;
             Quantia = quatia;
         }
 
         public override string ToString()
         {
-            return "Installments:\n";
+            return DataDeVencimento + " - " + Quantia.ToString(CultureInfo.InvariantCulture);
         }
     }
 }
