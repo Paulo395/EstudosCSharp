@@ -1,0 +1,15 @@
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\bin\Debug\net6.0\GenericService.exe
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\bin\Debug\net6.0\GenericService.deps.json
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\bin\Debug\net6.0\GenericService.runtimeconfig.json
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\bin\Debug\net6.0\GenericService.dll
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\bin\Debug\net6.0\GenericService.pdb
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.csproj.AssemblyReference.cache
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.AssemblyInfoInputs.cache
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.AssemblyInfo.cs
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.dll
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\refint\GenericService.dll
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.pdb
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\GenericService.genruntimeconfig.cache
+C:\Estudos\C#\EstudosCSharp\GenericService\GenericService\obj\Debug\net6.0\ref\GenericService.dll

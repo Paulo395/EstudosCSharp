@@ -1,0 +1,13 @@
+﻿using System;
+using View;
+
+namespace GenericService // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            TelaMenu.Menu();
+        }
+    }
+}
