@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-using Entites;
+using Entities;
 
 namespace Reader
 {
@@ -14,14 +14,19 @@ namespace Reader
 
                 string[] lines = File.ReadAllLines(sourcePath);
 
-                string[] logs = new string[2];
-
-                HashSet<string> set = new HashSet<string>();
+                HashSet<Registry> set = new HashSet<Registry>();
 
                 foreach (string s in lines)
                 {
-                    logs = s.Split(" ");
-                    set.Add(logs[0]);
+                    string[] logs = s.Split(" ");
+                    DateTime dateTime = DateTime.Parse(logs[1]); //Parse reconhece padrão ISO 8601
+
+                    set.Add(new Registry(logs[0],dateTime));
+                }
+
+                foreach(Registry registry in set)
+                {
+                    Console.WriteLine(registry);
                 }
 
                 Console.WriteLine("Total users: " + set.Count());
