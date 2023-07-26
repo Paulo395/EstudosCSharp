@@ -1,27 +1,20 @@
 ﻿using System;
+using Entitites;
 
-namespace HashSetSortedSet // Note: actual namespace depends on the project name.
+namespace HashSetSortedSet
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            HashSet<String> set = new HashSet<String>();
+            //Hash hash = new Hash();
+            //hash.TestandoHash();
 
-            set.Add("a");
-            set.Add("b");
-            set.Add("c");
-            set.Add("d");
-            set.Add("d"); //Não Vai!
+            Sorced sorced = new Sorced();
+            sorced.TestandoSorced();
 
-            foreach(String s in set)
-            {
-                Console.WriteLine(s);
-            }
-
-            if(set.Contains("j")) Console.WriteLine("Sim");
-
-            Console.WriteLine(set);
-        }
+            //Lista lista = new Lista();
+            //lista.TestandoList();
+        }               
     }
 }
