@@ -21,13 +21,13 @@ namespace RegistroAlunos // Note: actual namespace depends on the project name.
             Course cursoC = new Course("Odontologia", teacher);
 
             CourseService courseService = new CourseService();
-            courseService.AddStudent(cursoC, student1);
+            courseService.AddStudent(cursoA, student1);
 
-            //courseService.ListStudent(cursoA);
+            courseService.ListStudent(cursoA);
             //courseService.ListStudent(cursoB);
-            courseService.ListStudent(cursoC);
+            //courseService.ListStudent(cursoC);
 
-            Console.WriteLine(student1);
+            //Console.WriteLine(student1);
         }
     }
 }
