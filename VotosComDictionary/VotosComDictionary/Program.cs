@@ -6,7 +6,7 @@ namespace VotosComDictionary
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"C:\\Estudos\\C#\\EstudosCSharp\\VotosComDictionary\\VotosComDictionary\\Registry\\Registry.txt";
+            string sourcePath = @"C:\Estudos\C#\EstudosCSharp\VotosComDictionary\VotosComDictionary\Registry\Registry.txt";
 
             string[] strings = File.ReadAllLines(sourcePath);
 
