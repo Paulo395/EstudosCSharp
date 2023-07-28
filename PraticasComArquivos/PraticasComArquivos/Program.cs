@@ -7,27 +7,60 @@ namespace PraticasComArquivos
         private static void Main(string[] args)
         {
             string sourcePath = @"C:\Estudos\C#\EstudosCSharp\PraticasComArquivos\PraticasComArquivos\src\Names.txt";
+            string targetPath = @"C:\Estudos\C#\EstudosCSharp\PraticasComArquivos\PraticasComArquivos\src\Copy.txt";
 
-            //FileStream fs = null;
-            StreamReader sr = null;
+            ////Forma simplificada de leitura
+            try
+            {
+                using (StreamReader sr = File.OpenText(sourcePath))
+                {
+                    string s = sr.ReadToEnd();
+
+                    Console.WriteLine(s);
+
+                }
+            }
+            catch (IOException)
+            {
+                Console.WriteLine("Deu Ruim");
+            }
+
+
+            ////Forma simplificada de escrita
+            string? frase = Console.ReadLine();
 
             try
             {
-                //fs = new FileStream(sourcePath, FileMode.Open);
-                sr = File.OpenText(sourcePath); // Forma mais limpa 
-                string s = sr.ReadToEnd();
+                using (StreamWriter sw = new StreamWriter(targetPath))
+                {
+                    sw.WriteLine(frase); // Escreve apenas na primeira linha
+                }
+            }
+            catch (IOException)
+            {
+                Console.WriteLine("Deu Ruim");
+            }
 
+            //Informações de Pastas e Arquivos
+            IEnumerable<string> pastas = Directory.EnumerateDirectories(@"C:\Estudos"); //Retorna um IEnumerable
+            IEnumerable<string> arquivos = Directory.EnumerateFiles(@"C:\Estudos\Textos");
+
+            Console.WriteLine("Pastas");
+            foreach (string s in pastas)
+            {
                 Console.WriteLine(s);
             }
-            catch (Exception ex)
+
+            Console.WriteLine("Arquivos");
+            foreach (string s in arquivos)
             {
-                Console.WriteLine("Deu Ruim!");
+                Console.WriteLine(s);
             }
-            finally
-            {
-                //if (fs != null) fs.Close();
-                if (sr != null) sr.Close();
-            }
+
+            //Criar Pasta
+            string sourcePath2 = @"C:\";
+
+            Directory.CreateDirectory(sourcePath2 + "Pasta Teste");
 
         }
     }
